@@ -1,0 +1,40 @@
+{
+	"appID": "7c98c29eb7fb4420a7be4a490ccd6dfd",
+	"shortName": "memtest",
+	"title": "Memory Test",
+	"studio": {
+		"name": "Present Creative",
+		"domain": "presentcreative.com",
+		"stagingDomain": "presentcreative.com.com"
+	},
+	"supportedOrientations": [
+		"portrait"
+	],
+	"description": "",
+	"icon": "resources/icons/icon512.png",
+	"splash": {
+		"autoHide": true
+	},
+	"android": {
+		"versionCode": 1,
+		"icons": {
+			"36": "resources/icons/android36.png",
+			"48": "resources/icons/android48.png",
+			"72": "resources/icons/android72.png",
+			"96": "resources/icons/android96.png"
+		}
+	},
+	"ios": {
+		"bundleID": "com.presentcreative.memtest",
+		"appleID": "12345678",
+		"version": "1.0.0",
+		"icons": {
+			"57": "resources/icons/ios57.png",
+			"72": "resources/icons/ios72.png",
+			"114": "resources/icons/ios114.png",
+			"144": "resources/icons/ios144.png",
+			"renderGloss": true
+		}
+	},
+	"sdkVersion": "release-0.1.37"
+}
