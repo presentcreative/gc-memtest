@@ -6,8 +6,8 @@ import math.util as util;
 
 import src.Tile as Tile;
 
-var TILE_LIMIT = 1000; //max number of tile on screen
-var TIME_INTERVAL = 100; //How often tiles get added / removed 
+var TILE_LIMIT = 5000; //max number of tile on screen
+var TIME_INTERVAL = 50; //How often tiles get added / removed 
 
 exports = Class(GC.Application, function () {
 
